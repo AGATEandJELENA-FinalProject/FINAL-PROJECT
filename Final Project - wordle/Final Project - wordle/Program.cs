@@ -21,10 +21,7 @@ namespace Game_Wordle
         public void Game_Wordle()
         {
             Random random = new Random();
-            List<string> wordDictionary = new List<string> { "about", "above", "abuse", "actor", "acute", "admit", "adopt" }; 
-            //string[] logFile = File.ReadAllLines("C:\Users\kniip\source\repos\FINAL-PROJECT\Fin\Fin\5lettersW.txt");
-            //string[] logFile = File.ReadAllLines("./5lettersW.txt");
-            //List<string> wordDictionary = new List<string>(logFile);
+            List<string> wordDictionary = new List<string> { "about", "above", "abuse", "actor", "acute", "admit", "adopt" };
             int index = random.Next(wordDictionary.Count);
             String randomWord = wordDictionary[index];
             int finito = 0;
