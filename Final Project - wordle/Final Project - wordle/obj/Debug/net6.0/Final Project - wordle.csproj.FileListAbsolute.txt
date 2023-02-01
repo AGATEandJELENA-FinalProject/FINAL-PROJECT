@@ -1,0 +1,15 @@
+C:\Users\helle\Desktop\FINAL PROJECT\Final Project - wordle\Final Project - wordle\obj\Debug\net6.0\Final Project - wordle.csproj.AssemblyReference.cache
+C:\Users\helle\Desktop\FINAL PROJECT\Final Project - wordle\Final Project - wordle\obj\Debug\net6.0\Final Project - wordle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\helle\Desktop\FINAL PROJECT\Final Project - wordle\Final Project - wordle\obj\Debug\net6.0\Final Project - wordle.AssemblyInfoInputs.cache
+C:\Users\helle\Desktop\FINAL PROJECT\Final Project - wordle\Final Project - wordle\obj\Debug\net6.0\Final Project - wordle.AssemblyInfo.cs
+C:\Users\helle\Desktop\FINAL PROJECT\Final Project - wordle\Final Project - wordle\obj\Debug\net6.0\Final Project - wordle.csproj.CoreCompileInputs.cache
+C:\Users\helle\Desktop\FINAL PROJECT\Final Project - wordle\Final Project - wordle\bin\Debug\net6.0\Final Project - wordle.exe
+C:\Users\helle\Desktop\FINAL PROJECT\Final Project - wordle\Final Project - wordle\bin\Debug\net6.0\Final Project - wordle.deps.json
+C:\Users\helle\Desktop\FINAL PROJECT\Final Project - wordle\Final Project - wordle\bin\Debug\net6.0\Final Project - wordle.runtimeconfig.json
+C:\Users\helle\Desktop\FINAL PROJECT\Final Project - wordle\Final Project - wordle\bin\Debug\net6.0\Final Project - wordle.dll
+C:\Users\helle\Desktop\FINAL PROJECT\Final Project - wordle\Final Project - wordle\bin\Debug\net6.0\Final Project - wordle.pdb
+C:\Users\helle\Desktop\FINAL PROJECT\Final Project - wordle\Final Project - wordle\obj\Debug\net6.0\Final Project - wordle.dll
+C:\Users\helle\Desktop\FINAL PROJECT\Final Project - wordle\Final Project - wordle\obj\Debug\net6.0\refint\Final Project - wordle.dll
+C:\Users\helle\Desktop\FINAL PROJECT\Final Project - wordle\Final Project - wordle\obj\Debug\net6.0\Final Project - wordle.pdb
+C:\Users\helle\Desktop\FINAL PROJECT\Final Project - wordle\Final Project - wordle\obj\Debug\net6.0\Final Project - wordle.genruntimeconfig.cache
+C:\Users\helle\Desktop\FINAL PROJECT\Final Project - wordle\Final Project - wordle\obj\Debug\net6.0\ref\Final Project - wordle.dll
