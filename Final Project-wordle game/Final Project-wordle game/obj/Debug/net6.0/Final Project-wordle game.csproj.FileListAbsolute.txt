@@ -1,0 +1,15 @@
+C:\Users\helle\Desktop\FINAL PROJECT\Final Project-wordle game\Final Project-wordle game\bin\Debug\net6.0\Final Project-wordle game.exe
+C:\Users\helle\Desktop\FINAL PROJECT\Final Project-wordle game\Final Project-wordle game\bin\Debug\net6.0\Final Project-wordle game.deps.json
+C:\Users\helle\Desktop\FINAL PROJECT\Final Project-wordle game\Final Project-wordle game\bin\Debug\net6.0\Final Project-wordle game.runtimeconfig.json
+C:\Users\helle\Desktop\FINAL PROJECT\Final Project-wordle game\Final Project-wordle game\bin\Debug\net6.0\Final Project-wordle game.dll
+C:\Users\helle\Desktop\FINAL PROJECT\Final Project-wordle game\Final Project-wordle game\bin\Debug\net6.0\Final Project-wordle game.pdb
+C:\Users\helle\Desktop\FINAL PROJECT\Final Project-wordle game\Final Project-wordle game\obj\Debug\net6.0\Final Project-wordle game.csproj.AssemblyReference.cache
+C:\Users\helle\Desktop\FINAL PROJECT\Final Project-wordle game\Final Project-wordle game\obj\Debug\net6.0\Final Project-wordle game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\helle\Desktop\FINAL PROJECT\Final Project-wordle game\Final Project-wordle game\obj\Debug\net6.0\Final Project-wordle game.AssemblyInfoInputs.cache
+C:\Users\helle\Desktop\FINAL PROJECT\Final Project-wordle game\Final Project-wordle game\obj\Debug\net6.0\Final Project-wordle game.AssemblyInfo.cs
+C:\Users\helle\Desktop\FINAL PROJECT\Final Project-wordle game\Final Project-wordle game\obj\Debug\net6.0\Final Project-wordle game.csproj.CoreCompileInputs.cache
+C:\Users\helle\Desktop\FINAL PROJECT\Final Project-wordle game\Final Project-wordle game\obj\Debug\net6.0\Final Project-wordle game.dll
+C:\Users\helle\Desktop\FINAL PROJECT\Final Project-wordle game\Final Project-wordle game\obj\Debug\net6.0\refint\Final Project-wordle game.dll
+C:\Users\helle\Desktop\FINAL PROJECT\Final Project-wordle game\Final Project-wordle game\obj\Debug\net6.0\Final Project-wordle game.pdb
+C:\Users\helle\Desktop\FINAL PROJECT\Final Project-wordle game\Final Project-wordle game\obj\Debug\net6.0\Final Project-wordle game.genruntimeconfig.cache
+C:\Users\helle\Desktop\FINAL PROJECT\Final Project-wordle game\Final Project-wordle game\obj\Debug\net6.0\ref\Final Project-wordle game.dll
